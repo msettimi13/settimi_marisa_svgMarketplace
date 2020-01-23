@@ -4,9 +4,9 @@
 	 viewBox="0 0 313.8 336.5" style="enable-background:new 0 0 313.8 336.5;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
-	.st1{fill:#4C06F7;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st1{fill:#FCFCFC;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
 </style>
-<path id="handle" class="st0" d="M279.7,205.5h-71.7c-6.6,0-12-5.4-12-12v-29.9c0-6.6,5.4-12,12-12h71.7c6.6,0,12,5.4,12,12v29.9
+<path id="handle" class="st0" d="M279.7,205.5H208c-6.6,0-12-5.4-12-12v-29.9c0-6.6,5.4-12,12-12h71.7c6.6,0,12,5.4,12,12v29.9
 	C291.7,200.1,286.3,205.5,279.7,205.5z"/>
 <path id="sponge" class="st1" d="M111,303.1H60.2c-6.6,0-12-5.4-12-12V64.5c0-6.6,5.4-12,12-12H111c6.6,0,12,5.4,12,12v226.6
 	C123,297.7,117.6,303.1,111,303.1z"/>

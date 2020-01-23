@@ -1,0 +1,52 @@
+
+.img-wrapper {
+  display: inline-block;
+  width: 20%;
+  padding: 10px 15px;
+}
+
+.img-wrapper > img {
+  width: 100%;
+}
+
+#camera:hover #lens:hover {
+  fill: #FCFC06;
+}
+
+#canvas:hover #canvasboard:hover {
+  fill: #17D1E5;
+}
+
+#clapper:hover #top:hover {
+  fill: red;
+}
+
+#clapper:hover #body:hover {
+  fill: red;
+}
+
+#masks:hover #sface:hover {
+  fill: black;
+}
+
+#microphone:hover #body:hover {
+  fill: red;
+}
+
+#moviecamera:hover #body:hover {
+  fill: red;
+}
+
+#paintbrush:hover #paint:hover {
+  fill: blue;
+}
+
+#pencil:hover #pencilbody:hover {
+  fill: #FCCD06;
+}
+
+#roller:hover #sponge:hover {
+  fill: #7759D8;
+}
+
+

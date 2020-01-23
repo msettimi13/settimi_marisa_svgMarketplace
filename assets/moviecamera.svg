@@ -3,7 +3,7 @@
 <svg version="1.1" id="moviecamera" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 313.8 336.5" style="enable-background:new 0 0 313.8 336.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FCFCFC;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st0{fill:#FCFCFC;stroke:#000000;stroke-width:9;stroke-miterlimit:10;}
 </style>
 <path id="camera" class="st0" d="M288,252.1l-61.9-16.3c-7.5,0-11.7,0.1-11.7-7.4V195c0-7.5,6.2-13.7,13.7-13.7l52.7-15.6
 	c7.5,0,12.6,1.8,12.6,9.3l2,61C295.4,243.5,295.5,252.1,288,252.1z"/>
