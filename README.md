@@ -25,7 +25,5 @@ MIT
 
 Marisa Settimi
 
-## License 
 
-MIT
 
