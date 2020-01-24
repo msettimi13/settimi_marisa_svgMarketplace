@@ -1,17 +1,31 @@
 # SVG Marketplace
 
-#### Art Icon Set
+## Art Icon Set
 
-Built with HTML, CSS, JS, AI
 
 ## Requirements 
-Computer
+
+A modern browser
+
+## Built with
+
+1. HTML
+2. CSS
+3. JS
 
 ## Installation
-Click on the index.html file and hover over each icon for a colour pop!
 
-## Authors
+`CD` to the location of your choice, right click on the index.html page and open in a modern browser.
+
+## Licence 
+
+MIT
+
+## Author
+
 Marisa Settimi
 
 ## License 
+
 MIT
+
