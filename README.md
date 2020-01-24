@@ -2,6 +2,7 @@
 
 ## Art Icon Set
 
+
 ## Requirements 
 
 A modern browser
@@ -23,3 +24,8 @@ MIT
 ## Author
 
 Marisa Settimi
+
+## License 
+
+MIT
+
